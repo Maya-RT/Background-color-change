@@ -1,0 +1,18 @@
+button{
+    background-color: rgb(7, 7, 73);
+    padding: 1rem;
+    font-weight: 700;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+background-color: white;
+color: darkblue;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
